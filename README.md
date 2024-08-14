@@ -28,12 +28,12 @@ The analysis is based on the dataset sourced from [Our World in Data's CO2 datas
 
 ### Steps in the Analysis
 
-1. Data Preprocessing: Handling missing data and creating necessary derived columns like GDP per capita.
-2. CO2 Emission Over Time by Continent: Visualizing CO2 emissions across continents over time using line plots.
-3. Creating Table for CO2 Emission: Displaying CO2 emission data in an interactive, paginated table.
-4. CO2 vs GDP Scatterplot: Exploring the relationship between CO2 emissions and GDP per capita.
-5. Bar Chart with CO2 Sources by Continent: Analyzing the sources of CO2 emissions across different continents.
-6. Creating the Final Dashboard: Combining all elements into a cohesive dashboard using the Panel template.
+**1.** Data Preprocessing: Handling missing data and creating necessary derived columns like GDP per capita.
+**2.** CO2 Emission Over Time by Continent: Visualizing CO2 emissions across continents over time using line plots.
+**3.** Creating Table for CO2 Emission: Displaying CO2 emission data in an interactive, paginated table.
+**4.** CO2 vs GDP Scatterplot: Exploring the relationship between CO2 emissions and GDP per capita.
+**5.** Bar Chart with CO2 Sources by Continent: Analyzing the sources of CO2 emissions across different continents.
+**6.** Creating the Final Dashboard: Combining all elements into a cohesive dashboard using the Panel template.
 
 ### Key Features of the Dashboard
 
@@ -57,10 +57,10 @@ To run this project locally, you need to have Python installed along with the ne
 
 ## Usage
 
-1. Clone the repository or download the Jupyter notebook.
-2. Open the notebook in Jupyter or JupyterLab.
-3. Run the notebook cells sequentially to generate the dashboard.
-4. Interact with the dashboard using the widgets provided to explore the CO2 emission data.
+**1.** Clone the repository or download the Jupyter notebook.
+**2.** Open the notebook in Jupyter or JupyterLab.
+**3.** Run the notebook cells sequentially to generate the dashboard.
+**4.** Interact with the dashboard using the widgets provided to explore the CO2 emission data.
 
 ## Conclusion
 
