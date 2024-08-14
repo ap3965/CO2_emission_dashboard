@@ -43,6 +43,9 @@ The analysis is based on the dataset sourced from [Our World in Data's CO2 datas
 - Scatterplot Analysis: Visualizing the relationship between GDP per capita and CO2 emissions.
 - Bar Chart: Displaying the contribution of different sources (like coal, oil, gas) to CO2 emissions.
 
+### Dashboard Preview
+
+![CO2 Emission Dashboard](https://paste.pics/977cd316ce6601d783dbb4cb6124bde9)
 
 ## Installation
 
