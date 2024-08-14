@@ -59,9 +59,13 @@ To run this project locally, you need to have Python installed along with the ne
 ## Usage
 
 **1.** Clone the repository or download the Jupyter notebook.
+
 **2.** Open the notebook in Jupyter or JupyterLab.
+
 **3.** Run the notebook cells sequentially to generate the dashboard.
+
 **4.** Interact with the dashboard using the widgets provided to explore the CO2 emission data.
+
 
 ## Conclusion
 
